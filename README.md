@@ -1,0 +1,2 @@
+# Gallactica
+Base project
